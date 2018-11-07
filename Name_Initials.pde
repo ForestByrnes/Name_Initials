@@ -1,1 +1,26 @@
 // add Initials code here
+size(500,500);
+noStroke();
+background(0,97,255);
+fill(0,0,0);
+ellipse(4,67,429,6);
+ellipse(247,86,238,7);
+ellipse(6,75,357,5);
+ellipse(5,34,456,2);
+ellipse(243,354,413,6);
+ellipse(213,254,376,7);
+ellipse(132,344,345,7);
+ellipse(409,458,467,10);
+stroke(31,81,35);
+strokeWeight(50);
+line(115,110,390,400);
+noStroke();
+fill(31,81,35);
+rect(90,40,40,390,50);
+rect(365,40,40,390,50);
+fill(0,255,0);
+rect(100,50,50,400,50);
+rect(375,50,50,400,50);
+stroke(0,255,0);
+strokeWeight(50);
+line(125,100,400,400);
